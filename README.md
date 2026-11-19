@@ -11,9 +11,8 @@ temporizadores, pomodoros, recordatorios, el clima y más.
 ## Instalación
 
 1. Instalá **Ollama** desde [ollama.com](https://ollama.com).
-2. Abrí CMD y escribí: `ollama pull qwen2.5:3b`
-3. Descomprimí el ZIP y abrí **Nubi Desk.exe**.
-4. Si aparece "Windows protegió su PC", tocá **Más información → Ejecutar de todas formas**.
+2. Descomprimí el ZIP y abrí **Nubi Desk.exe**.
+3. Si aparece "Windows protegió su PC", tocá **Más información → Ejecutar de todas formas**.
 
 Nubi se actualiza solo cuando sale una versión nueva.
 
